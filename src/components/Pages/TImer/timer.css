@@ -1,0 +1,21 @@
+.stopwatch-card {
+  width: 300px;
+  padding: 0px 20px;
+  margin: 0 auto;
+  position: fixed;
+  top: 4px;
+  z-index: 9999;
+  left: 37%;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.timerText {
+  font-size: 18px;
+}
+
+.inbutton {
+  color: black !important;
+  background-color: aliceblue !important;
+}
